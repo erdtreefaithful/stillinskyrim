@@ -1,0 +1,40 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Still in Skyrim - 15th Anniversary",
+    "description": "A consistent, stable modlist created to celebrate Skyrim’s 15th anniversary, designed to stay artistically true to vanilla while refining the experience: enhancing what already works, smoothing out what does not, and preserving the unmistakable feel of Skyrim through carefully curated mods.",
+    "author": "erdtreefaithful",
+    "maintainers": [
+      "github/erdtreefaithful"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "Vanilla+",
+      "SFW",
+      "Steam",
+      "DLC Required"
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/erdtreefaithful/stillinskyrim/main/assets/mainlogo-wj.webp",
+      "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/171497?tab=description",
+      "download": "https://authored-files.wabbajack.org/StillinSkyrim15thAnniversaryRevision10.wabbajack_38e66eed-8209-4d96-a6f7-7406717b3e77",
+      "machineURL": "StillInSkyrim",
+      "discordURL": "https://www.nexusmods.com/skyrimspecialedition/mods/171497?tab=posts"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "VUazhP1jtwM=",
+      "Size": 12987038,
+      "NumberOfArchives": 716,
+      "SizeOfArchives": 88417035930,
+      "NumberOfInstalledFiles": 40998,
+      "SizeOfInstalledFiles": 99793888412,
+      "TotalSize": 188210924342
+    },
+    "version": "10.0.0"
+  }
+]
