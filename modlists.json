@@ -1,40 +1,45 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Still in Skyrim - 15th Anniversary",
-    "description": "A consistent, stable modlist created to celebrate Skyrim’s 15th anniversary, designed to stay artistically true to vanilla while refining the experience: enhancing what already works, smoothing out what does not, and preserving the unmistakable feel of Skyrim through carefully curated mods.",
+    "description": "A consistent, stable modlist created to celebrate Skyrim\u2019s 15th anniversary, designed to stay artistically true to vanilla while refining the experience: enhancing what already works, smoothing out what does not, and preserving the unmistakable feel of Skyrim through carefully curated mods.",
     "author": "erdtreefaithful",
     "maintainers": [
       "github/erdtreefaithful"
     ],
     "game": "skyrimspecialedition",
+    "official": false,
     "tags": [
-      "Vanilla+",
+      "Vanilla\u002B",
       "SFW",
       "Steam",
       "DLC Required"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/erdtreefaithful/stillinskyrim/main/assets/mainlogo-wj.webp",
       "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/171497?tab=description",
-      "download": "https://authored-files.wabbajack.org/StillinSkyrim15thAnniversaryRevision11.wabbajack_39f67ca4-98e6-4483-9004-198431523016",
+      "download": "https://authored-files.wabbajack.org/StillinSkyrim15thAnniversaryRevision11.wabbajack_11a41d1d-d167-413b-b0b7-dc83d24d10bb",
       "machineURL": "StillInSkyrim",
-      "discordURL": "https://www.nexusmods.com/skyrimspecialedition/mods/171497?tab=posts"
+      "discordURL": "https://www.nexusmods.com/skyrimspecialedition/mods/171497?tab=posts",
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "SVU6iT38SjI=",
-      "Size": 12872791,
+      "Hash": "9/rlYI3A3oc=",
+      "Size": 12872760,
       "NumberOfArchives": 720,
       "SizeOfArchives": 88439572295,
       "NumberOfInstalledFiles": 41017,
       "SizeOfInstalledFiles": 99828128384,
       "TotalSize": 188267700679
     },
-    "version": "11.0.0"
+    "version": "11.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2026-04-07T13:40:50.2305732Z",
+    "repositoryName": ""
   }
 ]
