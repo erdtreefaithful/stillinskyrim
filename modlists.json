@@ -26,12 +26,7 @@
       "machineURL": "StillInSkyrim",
       "discordURL": "https://www.nexusmods.com/skyrimspecialedition/mods/171497?tab=posts",
       "websiteURL": "",
-      "nexusCollection": {
-        "collectionId": "434198",
-        "slug": "",
-        "domainName": "skyrimspecialedition",
-        "lastRevisionNumber": 1
-      }
+      "nexusCollection": null
     },
     "download_metadata": {
       "Hash": "9AscHvkUnIA=",
