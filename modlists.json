@@ -22,7 +22,7 @@
     "links": {
       "image": "https://raw.githubusercontent.com/erdtreefaithful/stillinskyrim/main/assets/mainlogo-wj.webp",
       "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/171497?tab=description",
-      "download": "https://authored-files.wabbajack.org/StillinSkyrim15thAnniversaryRevision25.wabbajack_75e9ea15-22e4-4d5d-9cf4-b7928b957921",
+      "download": "https://authored-files.wabbajack.org/StillinSkyrim15thAnniversaryRevision26.wabbajack_3eb3cad2-a6dc-4c3d-8b66-361a4596f3b0",
       "machineURL": "StillInSkyrim",
       "discordURL": "https://www.nexusmods.com/skyrimspecialedition/mods/171497?tab=posts",
       "websiteURL": "",
@@ -34,17 +34,17 @@
       }
     },
     "download_metadata": {
-      "Hash": "3aY+ISzCxkg=",
-      "Size": 325666469,
-      "NumberOfArchives": 783,
-      "SizeOfArchives": 88635934583,
-      "NumberOfInstalledFiles": 102360,
-      "SizeOfInstalledFiles": 101792851432,
-      "TotalSize": 190428786015
+      "Hash": "e2g4zoxptzg=",
+      "Size": 325591724,
+      "NumberOfArchives": 780,
+      "SizeOfArchives": 88633999281,
+      "NumberOfInstalledFiles": 102154,
+      "SizeOfInstalledFiles": 101789209563,
+      "TotalSize": 190423208844
     },
-    "version": "25.0",
+    "version": "26.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-08-30T03:33:34.0892449Z",
+    "dateUpdated": "2026-08-30T11:08:06.5682708Z",
     "repositoryName": ""
   }
 ]
