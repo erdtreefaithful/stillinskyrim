@@ -22,7 +22,7 @@
     "links": {
       "image": "https://raw.githubusercontent.com/erdtreefaithful/stillinskyrim/main/assets/mainlogo-wj.webp",
       "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/171497?tab=description",
-      "download": "https://authored-files.wabbajack.org/StillinSkyrimRevision28.wabbajack_7eeb0842-d0ac-4bf2-a950-9080fede6c19",
+      "download": "https://authored-files.wabbajack.org/StillinSkyrimRevision29.wabbajack_6c91eff6-170d-4ba2-916c-28f49c0bfc17",
       "machineURL": "StillInSkyrim",
       "discordURL": "https://www.nexusmods.com/skyrimspecialedition/mods/171497?tab=posts",
       "websiteURL": "",
@@ -34,17 +34,17 @@
       }
     },
     "download_metadata": {
-      "Hash": "LuSozncxwLI=",
-      "Size": 246655932,
-      "NumberOfArchives": 776,
-      "SizeOfArchives": 88613484589,
-      "NumberOfInstalledFiles": 101066,
-      "SizeOfInstalledFiles": 101159026285,
-      "TotalSize": 189772510874
+      "Hash": "mtB4/5VbK5I=",
+      "Size": 291753529,
+      "NumberOfArchives": 778,
+      "SizeOfArchives": 89074008274,
+      "NumberOfInstalledFiles": 101671,
+      "SizeOfInstalledFiles": 102092959774,
+      "TotalSize": 191166968048
     },
-    "version": "28.0",
+    "version": "29.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-10-02T17:20:33.7338478Z",
+    "dateUpdated": "2026-10-28T15:43:15.1854739Z",
     "repositoryName": ""
   }
 ]
